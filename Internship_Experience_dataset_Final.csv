@@ -1,0 +1,677 @@
+Review_ID,Source,Domain,Mentor_Support,Real_Project,Learning_Resources,Company_type,Feedback_Quality,Workload,Communication,Technical_Skill_Development,Soft_Skill_Development,Stress_Level,Job_Ready,Overall_Sentiment
+R1,Glassdoor,Marketing,Yes,Yes,Restricted,MNC,Excellent,Moderate,Open,High,Low,Low,Yes,Positive
+R2,Glassdoor,Analysis,No,No,Restricted,Government/PSU,Poor,Overwhelming,Poor,Low,Low,Medium,Yes,Mixed
+R3,Glassdoor,Design,Somewhat,Partial,No,NGO,Good,Moderate,Restricted,Low,Medium,Medium,Partial,Mixed
+R4,Glassdoor,Design,No,Yes,Restricted,Startup Company,Poor,Overwhelming,Poor,Medium,Low,High,Yes,Mixed
+R5,Glassdoor,IT,Somewhat,No,Restricted,MNC,Good,Low,Poor,Low,Low,High,No,Mixed
+R6,Quora,Consulting,Somewhat,Partial,No,Service-based Company,Poor,Moderate,Poor,High,Low,High,Partial,Negative
+R7,Glassdoor,Research,Somewhat,Partial,Yes,Service-based Company,Poor,Moderate,Restricted,Medium,Medium,Medium,Yes,Mixed
+R8,LinkedIn,Media,No,Yes,Yes,Startup Company,Average,Low,Poor,Medium,Low,Medium,Yes,Mixed
+R9,LinkedIn,Research,Somewhat,No,Restricted,MNC,Good,Moderate,Poor,Low,Low,Medium,Partial,Negative
+R10,Internshala,Analysis,No,No,No,Government/PSU,Poor,Low,Restricted,Low,Low,Low,No,Negative
+R11,Internshala,Finance,Somewhat,Yes,No,MNC,Poor,Low,Restricted,Medium,Low,Low,No,Negative
+R12,Quora,Software Engineering,Yes,No,Restricted,Government/PSU,Good,Moderate,Poor,High,Low,High,Yes,Mixed
+R13,Internshala,Data Science,No,Partial,Restricted,MNC,Average,High,Restricted,High,Low,Medium,Partial,Mixed
+R14,Quora,Marketing,Somewhat,Yes,No,Startup Company,Average,Low,Restricted,Low,Medium,High,Yes,Mixed
+R15,Internshala,Research,Somewhat,,Restricted,Startup Company,Average,Overwhelming,Poor,Medium,Low,High,Partial,Mixed
+R16,Internshala,Marketing,No,Yes,No,NGO,Poor,High,Poor,Low,Medium,Medium,Yes,Mixed
+R17,Reddit,Consulting,No,Yes,Yes,Large Product Company,Excellent,Moderate,Restricted,High,High,Low,Partial,Positive
+R18,Internshala,Design,Somewhat,No,Yes,Service-based Company,Good,Moderate,Restricted,Medium,High,Medium,Yes,Positive
+R19,LinkedIn,Finance,Somewhat,,No,MNC,Excellent,High,Poor,Medium,Low,High,Yes,Mixed
+R20,LinkedIn,Design,,Partial,Yes,Startup Company,Good,High,,High,Medium,Low,Yes,Positive
+R21,LinkedIn,Finance,Somewhat,Yes,No,Large Product Company,Average,High,Poor,High,Low,High,Partial,Mixed
+R22,LinkedIn,Research,Somewhat,No,Restricted,MNC,Average,Overwhelming,Restricted,Low,Low,High,Partial,Positive
+R23,Reddit,Data Science,No,Partial,Restricted,Startup Company,Good,Moderate,Open,Low,Medium,Medium,Partial,Mixed
+R24,Reddit,Finance,Somewhat,Partial,No,Startup Company,Average,High,Restricted,Low,Medium,Medium,Yes,Mixed
+R25,LinkedIn,Research,Somewhat,Yes,Restricted,Startup Company,Average,Overwhelming,,High,Low,High,Yes,Mixed
+R26,LinkedIn,HR,No,No,Restricted,Government/PSU,Poor,High,Restricted,Low,Low,Low,No,Negative
+R27,Reddit,Data Science,No,Partial,Restricted,Service-based Company,Poor,Moderate,Poor,Medium,Low,Medium,Yes,Mixed
+R28,LinkedIn,Marketing,,No,Restricted,Service-based Company,Average,Overwhelming,Restricted,Low,Low,Medium,Partial,Mixed
+R29,Reddit,HR,No,Partial,No,NGO,Average,High,Restricted,Low,Low,Medium,No,Negative
+R30,LinkedIn,HR,Somewhat,Partial,,MNC,Good,Moderate,Restricted,Medium,Medium,Low,Yes,Positive
+R31,LinkedIn,Media,Yes,No,No,Service-based Company,Excellent,Moderate,Restricted,Low,Low,Medium,Partial,Positive
+R32,Internshala,Software Engineering,No,No,Restricted,Government/PSU,Poor,Low,Open,Medium,Low,Low,No,Negative
+R33,Internshala,Media,Yes,Partial,Yes,Large Product Company,Good,High,Open,High,High,Medium,Partial,Mixed
+R34,Quora,HR,Somewhat,No,Restricted,Service-based Company,Average,Low,Poor,Low,High,Medium,Partial,Mixed
+R35,Internshala,Design,No,Yes,Restricted,Startup Company,Average,Moderate,Restricted,High,Low,Medium,Yes,Mixed
+R36,Internshala,Software Engineering,Somewhat,Yes,Yes,Startup Company,Poor,Moderate,Restricted,High,High,High,Yes,Mixed
+R37,LinkedIn,Consulting,No,Yes,Restricted,MNC,Average,Moderate,Restricted,High,Medium,Low,Yes,Mixed
+R38,Internshala,HR,No,No,Restricted,Government/PSU,Poor,Moderate,Open,Low,High,High,No,Negative
+R39,Quora,Software Engineering,No,Partial,Restricted,Large Product Company,Poor,High,Poor,Low,Medium,High,No,Negative
+R40,Internshala,Finance,Somewhat,No,,MNC,Good,Low,Restricted,Low,High,Medium,Partial,Mixed
+R41,Quora,Research,Yes,Partial,Restricted,MNC,Good,Overwhelming,Restricted,High,Medium,Medium,Partial,Mixed
+R42,Reddit,Software Engineering,Somewhat,Yes,Yes,NGO,Average,Moderate,Open,High,Low,Low,Partial,Mixed
+R43,Quora,HR,Yes,,Restricted,Large Product Company,Average,High,Restricted,Low,Medium,Medium,Partial,Mixed
+R44,Quora,Marketing,Yes,Yes,Restricted,MNC,Excellent,High,Restricted,High,High,High,No,Mixed
+R45,Internshala,Media,Somewhat,Partial,,MNC,Excellent,Overwhelming,Restricted,Low,High,Medium,Partial,Positive
+R46,LinkedIn,Research,No,Partial,Restricted,Startup Company,Good,Overwhelming,Restricted,Medium,Low,High,Partial,Mixed
+R47,Reddit,Finance,Yes,Yes,Yes,Large Product Company,Good,High,Open,Medium,Medium,High,Yes,Mixed
+R48,Internshala,Software Engineering,No,No,Restricted,Government/PSU,Average,Low,Open,Low,Medium,Medium,No,Mixed
+R49,Quora,Data Science,No,Yes,Yes,MNC,Poor,Moderate,Restricted,High,Medium,High,Yes,Mixed
+R50,LinkedIn,Design,No,Yes,No,NGO,Poor,Moderate,Restricted,Medium,Low,Medium,Partial,Mixed
+R51,LinkedIn,Marketing,Somewhat,No,Yes,Large Product Company,Average,Overwhelming,Restricted,Low,Medium,High,No,Negative
+R52,LinkedIn,Finance,Somewhat,Partial,Restricted,NGO,Average,Low,Poor,Medium,Medium,Low,Partial,Mixed
+R53,LinkedIn,Media,No,No,No,Government/PSU,Average,Low,Restricted,Low,Low,Low,Yes,Mixed
+R54,LinkedIn,Analysis,No,Partial,No,NGO,Poor,Moderate,Poor,Medium,Low,High,Partial,Negative
+R55,LinkedIn,Finance,No,No,Yes,Large Product Company,Poor,High,Restricted,High,Low,Medium,No,Negative
+R56,Quora,Consulting,Yes,Partial,Yes,Service-based Company,Good,Low,Open,High,High,Medium,Yes,Positive
+R57,Reddit,IT,No,Yes,Yes,Startup Company,Poor,High,Poor,High,Low,Medium,Yes,Mixed
+R58,Glassdoor,HR,No,Partial,Restricted,Government/PSU,Poor,High,Restricted,Medium,Low,High,No,Negative
+R59,LinkedIn,Analysis,Yes,Partial,Restricted,Startup Company,Good,Overwhelming,Open,Medium,High,High,Yes,Mixed
+R60,Glassdoor,Core Engineering,Yes,Yes,Yes,Large Product Company,Good,Moderate,Restricted,Medium,Low,Low,Yes,Positive
+R61,Quora,Core Engineering,No,Yes,Yes,Startup Company,Average,Overwhelming,Open,Medium,Medium,Medium,Yes,Mixed
+R62,Glassdoor,Consulting,Yes,Partial,Restricted,Large Product Company,Good,Overwhelming,Poor,Medium,Low,Medium,No,Mixed
+R63,Reddit,Media,Yes,Partial,Yes,Service-based Company,Average,Moderate,Poor,High,Low,Medium,Partial,Mixed
+R64,Glassdoor,Finance,No,No,No,Startup Company,Average,Overwhelming,Restricted,Low,Low,Medium,No,Mixed
+R65,Reddit,HR,Yes,Yes,Yes,Service-based Company,Good,Low,Restricted,Medium,Low,Low,Yes,Positive
+R66,Glassdoor,Analysis,Somewhat,,Yes,Service-based Company,Poor,Low,Open,High,Low,Medium,Partial,Mixed
+R67,Glassdoor,Marketing,No,Yes,No,Startup Company,Average,Overwhelming,Restricted,Low,Low,High,No,Negative
+R68,Glassdoor,Media,No,Yes,No,Government/PSU,Good,Moderate,Poor,Medium,Low,Medium,Yes,Positive
+R69,Glassdoor,Media,No,Yes,No,Startup Company,Average,Overwhelming,Poor,High,Low,High,Yes,Mixed
+R70,LinkedIn,Design,Yes,Partial,Yes,Service-based Company,Average,Moderate,Open,High,Low,Low,Yes,Mixed
+R71,Glassdoor,Core Engineering,No,Partial,No,Startup Company,Good,High,Poor,High,Low,High,Yes,Mixed
+R72,LinkedIn,Data Science,Yes,Yes,Restricted,Startup Company,Good,High,Open,Medium,Low,High,Yes,Mixed
+R73,Reddit,Analysis,Somewhat,No,Yes,Service-based Company,Excellent,High,Open,High,Medium,Medium,Partial,Positive
+R74,Glassdoor,Software Engineering,Yes,No,,MNC,Excellent,High,Open,Medium,High,Medium,Yes,Negative
+R75,Glassdoor,Media,No,Yes,Restricted,MNC,Average,High,Restricted,Medium,Low,Medium,Yes,Mixed
+R76,Quora,Finance,Somewhat,Partial,Restricted,Service-based Company,Good,Moderate,Restricted,Medium,High,Low,Yes,Positive
+R77,Reddit,Core Engineering,Yes,No,Restricted,Government/PSU,Good,Moderate,Open,Low,Medium,Low,Partial,Mixed
+R78,Reddit,Core Engineering,No,Partial,Yes,Service-based Company,Poor,Overwhelming,Poor,High,Low,High,No,Negative
+R79,LinkedIn,Finance,Yes,No,Restricted,Government/PSU,Good,High,Poor,Medium,Medium,High,Yes,Mixed
+R80,Glassdoor,Data Science,No,No,Restricted,Government/PSU,Poor,Moderate,Poor,Low,Low,High,No,Negative
+R81,Reddit,Research,No,No,No,Government/PSU,Average,Low,Poor,Low,Low,Medium,Partial,Mixed
+R82,Quora,Media,Somewhat,,,Startup Company,Average,Moderate,Restricted,Medium,Low,Low,Partial,Mixed
+R83,Quora,HR,No,Partial,Yes,Service-based Company,Poor,High,Open,High,Low,High,Partial,Mixed
+R84,Quora,Consulting,No,Partial,No,Startup Company,Average,Low,Poor,Low,Low,Low,No,Mixed
+R85,LinkedIn,Media,No,Yes,Yes,MNC,Poor,Moderate,Open,High,Medium,Medium,Partial,Mixed
+R86,Reddit,Marketing,Yes,No,Restricted,MNC,Good,High,Open,Low,Medium,Medium,Partial,Mixed
+R87,Quora,Marketing,No,,No,Startup Company,Average,High,Restricted,Medium,Low,Low,Yes,Mixed
+R88,Reddit,Core Engineering,Somewhat,No,Yes,Large Product Company,Average,High,Restricted,Medium,Medium,High,No,Negative
+R89,Reddit,Marketing,Somewhat,No,Yes,Service-based Company,Average,Overwhelming,Poor,Medium,Low,High,No,Negative
+R90,Quora,Software Engineering,Somewhat,Yes,Restricted,Large Product Company,Average,Low,Restricted,High,Low,High,Partial,Mixed
+R91,LinkedIn,Finance,No,No,No,Government/PSU,Average,Moderate,Restricted,Medium,Low,Low,Partial,Negative
+R92,Quora,Marketing,Yes,Partial,Restricted,Startup Company,Excellent,High,Open,Medium,Low,Medium,Yes,Positive
+R93,LinkedIn,Core Engineering,Yes,Yes,Yes,Large Product Company,Good,Moderate,Poor,High,Low,Low,Yes,Positive
+R94,LinkedIn,Media,No,No,Yes,Service-based Company,Good,Moderate,Poor,Low,Medium,Low,Partial,Mixed
+R95,Reddit,Consulting,Somewhat,Partial,Yes,MNC,Good,High,Open,High,Medium,High,Yes,Mixed
+R96,Reddit,Software Engineering,Somewhat,Partial,,Startup Company,Average,Moderate,Open,Low,Medium,Low,Yes,Mixed
+R97,Reddit,IT,Yes,,Restricted,Government/PSU,Average,Low,Poor,Medium,Low,Low,Partial,Mixed
+R98,Quora,Finance,Yes,No,Yes,Service-based Company,Average,High,Open,Medium,Low,Medium,No,Mixed
+R99,LinkedIn,Finance,Somewhat,Yes,,Startup Company,Good,High,Open,Low,Medium,High,Partial,Mixed
+R100,Reddit,Design,No,No,Yes,Service-based Company,Good,Overwhelming,Open,Low,Medium,High,Yes,Mixed
+R101,Reddit,Media,Yes,Partial,Restricted,MNC,Poor,Low,Restricted,Medium,Medium,Low,No,Negative
+R102,LinkedIn,Software Engineering,Yes,Partial,Restricted,MNC,Good,Low,Poor,Medium,Medium,Low,Yes,Positive
+R103,Reddit,HR,Yes,Partial,No,Service-based Company,Average,Moderate,Open,Low,Medium,Low,No,Mixed
+R104,LinkedIn,Data Science,Somewhat,No,Yes,Service-based Company,Average,Moderate,Open,Medium,High,Medium,No,Mixed
+R105,LinkedIn,IT,Somewhat,No,No,MNC,Average,Moderate,Poor,Medium,Low,Medium,Yes,Mixed
+R106,Reddit,IT,Somewhat,Yes,Restricted,NGO,Good,High,Open,Medium,Medium,High,Yes,Mixed
+R107,Quora,Data Science,No,Yes,Restricted,MNC,Poor,High,Restricted,Medium,Medium,High,Partial,Negative
+R108,Quora,Research,,Partial,Yes,Service-based Company,Average,High,Poor,Medium,Low,High,Yes,Mixed
+R109,Quora,Finance,Somewhat,No,Restricted,Government/PSU,Poor,Moderate,Poor,Low,Low,Medium,Partial,Mixed
+R110,LinkedIn,IT,No,Yes,,Government/PSU,Poor,Moderate,Poor,High,Low,High,No,Negative
+R111,LinkedIn,Software Engineering,Yes,Partial,Restricted,MNC,Excellent,High,Open,Low,Medium,Medium,Yes,Positive
+R112,Quora,Consulting,Yes,Yes,Restricted,Startup Company,Good,Overwhelming,Restricted,Medium,Low,High,Partial,Mixed
+R113,LinkedIn,IT,Somewhat,,Yes,Government/PSU,Average,Low,Poor,Medium,Medium,Medium,Partial,Mixed
+R114,Reddit,Software Engineering,No,No,Yes,MNC,Poor,High,Restricted,Low,Medium,Medium,No,Negative
+R115,Reddit,Data Science,Somewhat,Yes,Yes,MNC,Poor,Moderate,Restricted,Medium,High,High,Yes,Mixed
+R116,Reddit,Research,No,Yes,Restricted,Service-based Company,Poor,Low,Restricted,Medium,Low,Medium,No,Negative
+R117,Quora,Marketing,Somewhat,No,Yes,Large Product Company,Good,Moderate,Open,Medium,High,Low,No,Positive
+R118,Internshala,Media,No,No,No,Service-based Company,Poor,High,Restricted,Low,Low,Medium,No,Negative
+R119,Internshala,Core Engineering,No,No,Yes,Service-based Company,Good,Moderate,Open,Medium,Medium,Low,Partial,Mixed
+R120,Internshala,Media,Somewhat,Yes,No,NGO,Poor,High,Poor,High,Low,Medium,Partial,Mixed
+R121,Quora,Research,No,,,Service-based Company,Poor,High,Restricted,High,High,Medium,Yes,Mixed
+R122,Quora,HR,,No,No,Service-based Company,Average,Moderate,Restricted,Medium,Low,Medium,No,Mixed
+R123,Internshala,Finance,No,No,Yes,Service-based Company,Good,Moderate,Open,Low,High,Medium,Partial,Mixed
+R124,Reddit,Marketing,No,No,No,Startup Company,Excellent,High,Restricted,Medium,Low,Medium,Yes,Positive
+R125,Internshala,Design,Somewhat,Partial,Yes,Service-based Company,Average,High,Restricted,High,Medium,Low,Yes,Mixed
+R126,Internshala,Data Science,No,Yes,Yes,Startup Company,Good,Moderate,Restricted,High,Medium,Medium,Yes,Positive
+R127,Internshala,Finance,Yes,Yes,No,Large Product Company,Excellent,High,Open,Low,Medium,Medium,Yes,Positive
+R128,Internshala,Marketing,Yes,No,No,Service-based Company,Poor,Low,Restricted,Low,Medium,Low,No,Negative
+R129,Internshala,Media,No,No,Yes,Service-based Company,Poor,High,Open,Low,Medium,Medium,Partial,Mixed
+R130,Reddit,Marketing,Yes,Yes,Yes,Service-based Company,Average,High,Open,High,Medium,High,Partial,Mixed
+R131,LinkedIn,Finance,Somewhat,No,Restricted,Service-based Company,Average,Moderate,Restricted,Low,Medium,Low,No,Mixed
+R132,LinkedIn,Software Engineering,No,Partial,No,Government/PSU,Average,Moderate,Poor,Low,Low,High,Partial,Mixed
+R133,Internshala,Media,Yes,Partial,Restricted,MNC,Excellent,Moderate,Open,High,Low,Low,Partial,Positive
+R134,Internshala,IT,Yes,Yes,Restricted,Large Product Company,Excellent,Overwhelming,Poor,High,Low,High,Yes,Positive
+R135,LinkedIn,Media,Yes,No,Restricted,Startup Company,Average,High,Open,Low,Medium,High,Partial,Mixed
+R136,Internshala,IT,Somewhat,Partial,Yes,Startup Company,Average,High,Restricted,High,High,Medium,Yes,Mixed
+R137,Quora,Consulting,No,Yes,Restricted,Startup Company,Average,Overwhelming,Restricted,High,Low,Low,Yes,Mixed
+R138,Internshala,Core Engineering,Yes,Yes,Restricted,MNC,Poor,Moderate,Poor,Medium,High,High,Yes,Mixed
+R139,Reddit,Analysis,,Yes,No,NGO,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R140,Glassdoor,Research,No,Yes,No,Startup Company,Poor,Overwhelming,Poor,Low,Low,High,No,Negative
+R141,LinkedIn,Research,Somewhat,Partial,No,Large Product Company,Average,High,Poor,Low,Low,Low,Partial,Mixed
+R142,Glassdoor,Design,,Yes,Yes,MNC,Average,Moderate,Open,High,High,Medium,Yes,Mixed
+R143,LinkedIn,Analysis,No,Partial,No,Startup Company,Average,Moderate,Restricted,Low,Low,Low,No,Mixed
+R144,LinkedIn,Software Engineering,No,Yes,No,MNC,Average,Overwhelming,Poor,Low,Low,High,Yes,Mixed
+R145,Glassdoor,Marketing,No,Yes,Restricted,Service-based Company,Poor,High,Poor,High,Low,High,No,Positive
+R146,Reddit,Research,Yes,No,Yes,Service-based Company,Average,High,Open,Medium,High,High,Yes,Mixed
+R147,LinkedIn,Software Engineering,Somewhat,Partial,Yes,MNC,Poor,High,Restricted,Medium,High,Low,Yes,Mixed
+R148,Glassdoor,Data Science,No,Yes,Restricted,Service-based Company,Poor,High,Open,High,Low,Medium,Partial,Mixed
+R149,Glassdoor,Marketing,,No,Restricted,Government/PSU,Poor,Moderate,Restricted,Low,Medium,Medium,Partial,Mixed
+R150,Reddit,Analysis,Yes,,Yes,MNC,Excellent,Moderate,Poor,Medium,Low,Low,Yes,Positive
+R151,Reddit,Analysis,Somewhat,Yes,Restricted,Service-based Company,Average,Moderate,Poor,Medium,Low,Medium,Yes,Mixed
+R152,Glassdoor,Design,Yes,Yes,Yes,MNC,Average,Low,Poor,Medium,Low,Low,Yes,Mixed
+R153,Quora,Media,No,Yes,Yes,MNC,Excellent,High,Open,High,Medium,Medium,Yes,Positive
+R154,Quora,Software Engineering,No,Partial,Yes,NGO,Good,Low,Restricted,High,Low,Medium,Yes,Positive
+R155,Quora,HR,Yes,Yes,Restricted,Startup Company,Excellent,High,Open,Medium,Low,Low,Yes,Positive
+R156,Quora,Design,Yes,Partial,Restricted,Large Product Company,Excellent,Moderate,Restricted,Medium,Medium,Low,Partial,Positive
+R157,Glassdoor,Data Science,Somewhat,No,Yes,MNC,Average,High,Poor,Low,Low,High,No,Negative
+R158,LinkedIn,Consulting,No,Partial,Restricted,Service-based Company,Poor,Moderate,Poor,Medium,Low,High,Partial,Negative
+R159,Glassdoor,Analysis,Somewhat,No,Yes,Government/PSU,Poor,High,Poor,Low,Low,High,Yes,Mixed
+R160,Glassdoor,Software Engineering,Somewhat,No,Yes,MNC,Average,Moderate,Restricted,Low,Low,Low,No,Mixed
+R161,LinkedIn,Media,No,Yes,Yes,Service-based Company,Average,Overwhelming,Open,Medium,High,Medium,Yes,Mixed
+R162,Glassdoor,IT,Somewhat,No,Restricted,Government/PSU,Average,High,Restricted,Low,Low,High,Yes,Mixed
+R163,Reddit,Design,No,No,Restricted,Government/PSU,Good,Low,Restricted,Low,Low,High,Partial,Mixed
+R164,Quora,Research,Yes,Partial,Restricted,Service-based Company,Good,Moderate,Poor,High,Low,High,Yes,Mixed
+R165,Glassdoor,Research,Yes,Partial,Restricted,MNC,Good,Moderate,Restricted,High,High,Low,Yes,Positive
+R166,Glassdoor,Design,Somewhat,No,No,MNC,Average,Moderate,Poor,Low,Low,High,Partial,Mixed
+R167,Reddit,Consulting,Yes,Partial,Restricted,Service-based Company,Excellent,High,Restricted,Medium,Medium,Low,Partial,Positive
+R168,Reddit,HR,Somewhat,No,,MNC,Average,Moderate,Restricted,Low,Low,Medium,Yes,Mixed
+R169,Quora,Analysis,Yes,No,Restricted,Government/PSU,Good,Low,Open,Low,Medium,Low,Yes,Positive
+R170,Quora,Research,Yes,Partial,Restricted,Large Product Company,Excellent,High,Restricted,Medium,Medium,Medium,Yes,Positive
+R171,Quora,IT,No,No,No,Government/PSU,Good,High,Restricted,Low,High,Medium,Partial,Mixed
+R172,Glassdoor,Design,Yes,No,No,Government/PSU,Poor,Moderate,,Low,High,Low,No,Negative
+R173,Glassdoor,HR,Somewhat,No,Restricted,MNC,Average,High,Open,Low,Low,Medium,Yes,Mixed
+R174,Glassdoor,Analysis,No,Yes,Yes,NGO,Poor,Low,Poor,High,Low,Medium,Partial,Mixed
+R175,Quora,IT,No,No,No,Startup Company,Poor,High,Poor,Low,Low,Low,No,Negative
+R176,Glassdoor,Data Science,Yes,Partial,No,NGO,Excellent,Moderate,Poor,Medium,Medium,Medium,Partial,Positive
+R177,Glassdoor,Core Engineering,No,Yes,No,Startup Company,Poor,Overwhelming,Open,High,Low,Medium,No,Negative
+R178,Glassdoor,Analysis,,Partial,Restricted,Service-based Company,Good,High,Poor,Medium,Low,High,Partial,Mixed
+R179,LinkedIn,Consulting,No,Yes,No,NGO,Poor,Moderate,Restricted,Medium,Low,High,Partial,Negative
+R180,Reddit,Analysis,Somewhat,Yes,Restricted,Startup Company,Poor,Overwhelming,Poor,Low,Low,Medium,No,Negative
+R181,Glassdoor,Design,Yes,Yes,Yes,Service-based Company,Good,High,Poor,High,Medium,High,Yes,Mixed
+R182,Reddit,Software Engineering,Somewhat,Yes,Restricted,Service-based Company,Average,Moderate,,Medium,Medium,Low,Partial,Mixed
+R183,Glassdoor,Software Engineering,Yes,Yes,No,Large Product Company,Excellent,High,,Medium,High,Medium,Yes,Positive
+R184,Quora,Marketing,Yes,Partial,Yes,Service-based Company,Average,High,Poor,High,High,Medium,Yes,Mixed
+R185,Quora,IT,No,No,,Service-based Company,Average,Low,,Low,Low,Low,Partial,Mixed
+R186,Quora,Finance,Yes,Partial,Restricted,MNC,Average,Moderate,Restricted,Low,High,Low,No,Mixed
+R187,Quora,Finance,Somewhat,Partial,No,Government/PSU,Poor,Low,Restricted,Low,Low,Medium,No,Negative
+R188,Quora,HR,No,Yes,No,Startup Company,Good,Overwhelming,Poor,Low,Low,High,Yes,Mixed
+R189,LinkedIn,Software Engineering,No,No,Restricted,Government/PSU,Average,Moderate,Restricted,Low,Low,Medium,No,Mixed
+R190,LinkedIn,Analysis,No,No,No,Startup Company,Poor,Moderate,Restricted,Low,Low,High,Partial,Negative
+R191,Quora,Marketing,No,Yes,Restricted,Startup Company,Average,High,Restricted,Medium,Low,High,Yes,Mixed
+R192,Reddit,Media,No,No,Yes,Service-based Company,Poor,Moderate,Poor,High,Low,High,No,Negative
+R193,Quora,Research,Yes,Partial,No,Large Product Company,Good,Low,Poor,Medium,Low,Medium,No,Mixed
+R194,Reddit,Media,Somewhat,No,Yes,Service-based Company,Average,High,Restricted,Low,High,Medium,No,Mixed
+R195,Quora,Finance,Yes,No,No,Service-based Company,Good,High,Restricted,Low,Medium,Medium,Yes,Positive
+R196,LinkedIn,Software Engineering,No,No,No,NGO,Average,High,Restricted,Low,Low,High,No,Negative
+R197,Quora,Data Science,No,Yes,Yes,Large Product Company,Poor,High,Poor,Medium,Low,High,Yes,Negative
+R198,Reddit,Marketing,Somewhat,Yes,Restricted,NGO,Average,Moderate,Open,Low,Medium,Low,No,Mixed
+R199,Reddit,Consulting,Somewhat,Partial,Yes,Service-based Company,Average,Overwhelming,Restricted,High,Medium,High,No,Negative
+R200,Quora,Finance,Somewhat,No,Restricted,Service-based Company,Good,Moderate,Poor,Low,High,Medium,Yes,Positive
+R201,Quora,Research,Yes,Yes,Restricted,MNC,Average,High,Open,High,High,Medium,Yes,Positive
+R202,Reddit,Software Engineering,No,Yes,No,Large Product Company,Poor,High,Poor,Low,Low,High,No,Negative
+R203,Quora,Core Engineering,Somewhat,Partial,Restricted,Service-based Company,Good,Moderate,Poor,High,Low,High,Partial,Positive
+R204,LinkedIn,HR,No,Partial,Restricted,MNC,Poor,Low,Poor,High,Low,Low,Partial,Mixed
+R205,AmbitionBox,Research,No,Yes,No,Service-based Company,Poor,Low,Poor,High,Medium,Medium,Yes,Positive
+R206,Quora,Finance,No,No,No,Service-based Company,Poor,Moderate,Poor,Low,Medium,Low,Partial,Mixed
+R207,Quora,IT,Somewhat,No,Yes,MNC,Average,Overwhelming,Poor,Low,Low,High,Partial,Negative
+R208,Quora,Core Engineering,No,Partial,Yes,Startup Company,Poor,Moderate,Poor,High,Medium,High,No,Negative
+R209,Quora,Marketing,Yes,Yes,No,MNC,Excellent,High,Poor,High,Low,Medium,Partial,Mixed
+R210,AmbitionBox,Finance,Yes,Yes,Yes,Large Product Company,Good,Moderate,Poor,High,Low,High,Yes,Positive
+R211,LinkedIn,Research,No,No,No,Service-based Company,Good,Low,Open,High,Medium,Medium,Partial,Negative
+R212,Quora,Design,Yes,No,Restricted,Large Product Company,Good,Moderate,Poor,Low,Low,Medium,No,Negative
+R213,Quora,IT,Somewhat,Yes,No,Startup Company,Poor,Overwhelming,Open,Low,Medium,High,Yes,Mixed
+R214,LinkedIn,Design,No,No,Restricted,Government/PSU,Average,Low,Poor,Low,Medium,Low,No,Positive
+R215,AmbitionBox,Consulting,No,Yes,No,NGO,Good,Low,Open,Low,Low,Low,Partial,Positive
+R216,AmbitionBox,Media,No,No,Yes,Startup Company,Good,Low,Poor,High,Low,Low,Partial,Negative
+R217,Quora,Consulting,No,No,Yes,Startup Company,Poor,High,Poor,Low,Low,High,No,Negative
+R218,Reddit,HR,No,Partial,Yes,Service-based Company,Poor,Moderate,Poor,Low,Medium,High,No,Negative
+R219,Quora,Marketing,Yes,No,Restricted,Service-based Company,Poor,Moderate,Open,Low,High,High,No,Negative
+R220,Quora,IT,Yes,No,Yes,Service-based Company,Average,High,Open,High,High,Low,Yes,Positive
+R221,AmbitionBox,Data Rience,No,Partial,Yes,MNC,Poor,Overwhelming,Poor,High,Low,High,Yes,Positive
+R222,Quora,Media,Yes,Yes,Yes,MNC,Good,Low,Open,Low,High,Medium,Partial,Negative
+R223,AmbitionBox,IT,No,No,Yes,Service-based Company,Poor,High,Poor,Medium,Low,High,Partial,Mixed
+R224,Reddit,HR,Yes,No,Restricted,Service-based Company,Poor,High,Open,Low,High,High,No,Negative
+R225,Reddit,Core Engineering,Yes,Yes,Restricted,MNC,Excellent,Moderate,Open,High,High,Low,Yes,Positive
+R226,Quora,Consulting,No,Partial,No,Startup Company,Poor,High,Open,Low,High,High,Partial,Mixed
+R227,Quora,Consulting,Yes,No,No,Startup Company,Good,Overwhelming,Restricted,Low,Low,Medium,No,Negative
+R228,Quora,Media,Somewhat,Yes,Yes,Large Product Company,Poor,High,Poor,High,Medium,Low,Yes,Positive
+R229,Quora,Design,No,Partial,No,Startup Company,Poor,High,Open,Medium,Medium,Medium,Partial,Positive
+R230,Quora,Research,Somewhat,No,Restricted,Large Product Company,Average,High,Open,Low,Low,High,Partial,Negative
+R231,AmbitionBox,Media,No,Partial,Yes,MNC,Poor,Moderate,Poor,High,Low,High,Yes,Mixed
+R232,AmbitionBox,Data Rience,No,No,Yes,MNC,Poor,Moderate,Open,Low,Medium,Low,Partial,Positive
+R233,AmbitionBox,Media,Yes,No,Yes,MNC,Average,Moderate,Open,Medium,Medium,High,Yes,Positive
+R234,AmbitionBox,Media,Somewhat,Partial,No,Government/PSU,Average,High,Open,Low,High,Low,Yes,Positive
+R235,Quora,Software Engineering,Yes,No,Restricted,Startup Company,Poor,Low,Poor,Low,High,Low,No,Positive
+R236,Reddit,IT,Somewhat,No,Yes,Service-based Company,Average,High,Poor,Medium,Low,High,No,Negative
+R237,Quora,Consulting,No,Partial,No,Startup Company,Average,High,Poor,Low,Low,Medium,No,Negative
+R238,AmbitionBox,Consulting,Yes,No,Restricted,Startup Company,Excellent,Moderate,Open,Medium,High,Low,Partial,Positive
+R239,Quora,Design,No,Yes,Yes,MNC,Excellent,High,Poor,Medium,Medium,High,Yes,Positive
+R240,Reddit,Design,Somewhat,Yes,No,MNC,Poor,High,Poor,Medium,Low,High,Partial,Negative
+R241,AmbitionBox,IT,Yes,No,Restricted,Large Product Company,Excellent,High,Open,Low,Medium,Medium,Partial,Negative
+R242,Quora,Data Rience,No,No,Yes,Startup Company,Poor,Overwhelming,Poor,High,Low,Medium,Yes,Positive
+R243,Reddit,Design,No,Yes,Restricted,MNC,Poor,Moderate,Restricted,High,Low,High,No,Negative
+R244,Quora,IT,Yes,No,Yes,Service-based Company,Poor,High,Poor,High,Medium,Medium,Yes,Positive
+R245,Reddit,Marketing,Yes,Yes,No,MNC,Average,High,Open,Low,Medium,Low,No,Positive
+R246,LinkedIn,Consulting,No,No,No,Startup Company,Poor,Low,Poor,Low,Low,Low,Partial,Positive
+R247,Quora,Software Engineering,Somewhat,No,No,Government/PSU,Poor,Moderate,Poor,Low,Low,High,Partial,Mixed
+R248,Quora,IT,Yes,Yes,Yes,MNC,Excellent,Low,Open,High,Medium,Low,Yes,Positive
+R249,LinkedIn,Design,Yes,No,No,Service-based Company,Average,Overwhelming,Open,Low,Medium,Low,Partial,Positive
+R250,Reddit,Consulting,Yes,Yes,Restricted,Service-based Company,Excellent,Low,Poor,Medium,Low,Low,Yes,Positive
+R251,Quora,HR,No,No,No,Startup Company,Good,Moderate,Poor,Low,Low,High,Partial,Mixed
+R252,Reddit,Data Rience,No,Yes,Yes,MNC,Poor,Moderate,Poor,Low,Medium,Low,No,Mixed
+R253,AmbitionBox,Marketing,No,No,No,Service-based Company,Poor,Overwhelming,Open,Low,Low,High,No,Mixed
+R254,Reddit,IT,No,Partial,Yes,NGO,Poor,High,Poor,Low,Medium,High,No,Negative
+R255,Reddit,Media,Yes,Yes,Restricted,MNC,Poor,Moderate,Open,High,High,High,Yes,Positive
+R256,AmbitionBox,Core Engineering,No,No,No,Startup Company,Poor,Overwhelming,Poor,Low,Medium,High,No,Negative
+R257,AmbitionBox,Consulting,No,Yes,Restricted,MNC,Average,High,Poor,Medium,Low,High,No,Mixed
+R258,AmbitionBox,Data Rience,No,No,Restricted,Government/PSU,Poor,Moderate,Open,Low,Low,Low,No,Positive
+R259,LinkedIn,Marketing,Yes,Partial,No,MNC,Good,High,Open,Low,Medium,Medium,Yes,Positive
+R260,AmbitionBox,IT,Somewhat,Yes,No,MNC,Poor,High,Open,Low,High,High,No,Negative
+R261,AmbitionBox,Data Rience,No,Yes,Yes,Startup Company,Average,High,Poor,High,Low,Medium,Yes,Positive
+R262,Quora,Finance,Somewhat,Partial,Yes,Startup Company,Poor,Low,Poor,High,Medium,Low,Partial,Positive
+R263,Reddit,Marketing,Somewhat,Partial,Restricted,Service-based Company,Average,Low,Poor,High,Low,Low,No,Positive
+R264,LinkedIn,IT,Yes,No,Restricted,Service-based Company,Excellent,High,Open,Low,High,Low,No,Negative
+R265,Quora,Consulting,Yes,No,Restricted,Startup Company,Good,High,Open,Low,Medium,High,Yes,Negative
+R266,Reddit,Finance,No,Yes,Restricted,Service-based Company,Poor,Moderate,Poor,Medium,Low,High,No,Negative
+R267,Quora,Consulting,No,No,No,Government/PSU,Poor,Low,Poor,Medium,Medium,Medium,No,Mixed
+R268,Reddit,Research,Yes,Yes,Restricted,Service-based Company,Poor,Low,Open,High,Medium,Low,No,Negative
+R269,AmbitionBox,Design,Yes,No,Yes,MNC,Good,Overwhelming,Poor,Medium,Medium,High,Yes,Positive
+R270,AmbitionBox,IT,No,Partial,Yes,Startup Company,Poor,Moderate,Poor,Medium,Low,Medium,No,Positive
+R271,Reddit,Software Engineering,Somewhat,Yes,Yes,Large Product Company,Average,Overwhelming,Poor,High,Low,High,Yes,Negative
+R272,Quora,Media,Somewhat,Partial,Yes,MNC,Poor,High,Open,High,Medium,High,Partial,Positive
+R273,Quora,Data Rience,Yes,Partial,Yes,Startup Company,Good,Low,Open,High,High,Low,Yes,Positive
+R274,Reddit,Core Engineering,No,No,Yes,Startup Company,Average,High,Poor,Medium,Low,High,No,Negative
+R275,AmbitionBox,Media,Somewhat,Yes,Restricted,NGO,Poor,High,Open,High,High,High,Partial,Positive
+R276,Quora,Media,Somewhat,Yes,Yes,Service-based Company,Average,Moderate,Poor,High,Medium,Low,Yes,Positive
+R277,Quora,Design,No,Yes,Yes,Service-based Company,Average,Moderate,Poor,High,Low,Medium,Partial,Positive
+R278,Quora,Media,No,Partial,Restricted,Service-based Company,Poor,High,Poor,Low,Medium,Medium,No,Positive
+R279,AmbitionBox,Design,No,Yes,No,NGO,Average,Low,Open,Medium,Low,High,Partial,Negative
+R280,Quora,Marketing,Somewhat,Yes,No,NGO,Good,Low,Poor,Low,Medium,Low,Partial,Positive
+R281,Quora,Consulting,Somewhat,Partial,Restricted,Large Product Company,Average,High,Poor,Low,Medium,High,Partial,Negative
+R282,AmbitionBox,Consulting,No,No,No,Startup Company,Excellent,Low,Poor,Low,Medium,Low,Yes,Positive
+R283,Quora,Software Engineering,No,Partial,No,Service-based Company,Average,High,Restricted,Low,Low,Low,No,Mixed
+R284,Quora,Media,Somewhat,Yes,Restricted,MNC,Average,High,Poor,High,Low,Medium,Yes,Positive
+R285,AmbitionBox,Design,Yes,Partial,Yes,Service-based Company,Average,High,Open,High,High,Medium,Yes,Mixed
+R286,Quora,Media,Yes,Yes,Restricted,MNC,Average,High,Open,High,High,Low,Yes,Positive
+R287,Reddit,Core Engineering,No,No,Yes,Government/PSU,Poor,Moderate,Poor,Low,Low,Medium,No,Mixed
+R288,Quora,Consulting,Yes,Yes,Yes,Service-based Company,Average,High,Poor,High,Medium,High,Yes,Mixed
+R289,Quora,Core Engineering,Yes,Yes,No,Service-based Company,Average,Low,Open,Medium,High,Low,Yes,Positive
+R290,AmbitionBox,Marketing,No,Partial,Yes,Startup Company,Poor,High,Restricted,High,Low,Medium,No,Negative
+R291,Quora,Media,No,Yes,No,Startup Company,Poor,Overwhelming,Poor,High,Medium,High,Yes,Positive
+R292,AmbitionBox,Finance,Yes,Yes,Yes,Startup Company,Average,Overwhelming,Open,Low,High,High,Partial,Mixed
+R293,AmbitionBox,Consulting,No,No,Yes,MNC,Poor,Overwhelming,Poor,Low,Low,High,No,Negative
+R294,Quora,Marketing,Somewhat,Yes,Yes,Service-based Company,Poor,Low,Open,High,High,Low,No,Negative
+R295,Quora,Software Engineering,No,Yes,Restricted,Startup Company,Poor,High,Poor,Low,Low,Medium,Partial,Mixed
+R296,AmbitionBox,Research,Yes,No,Yes,MNC,Average,High,Open,High,Medium,Low,No,Negative
+R297,Reddit,Design,No,No,Yes,Service-based Company,Poor,Low,Poor,Low,Low,High,No,Mixed
+R298,Quora,IT,Yes,Partial,Yes,Large Product Company,Excellent,Low,Open,Medium,High,Low,Partial,Negative
+R299,Reddit,Research,No,No,No,Government/PSU,Poor,Low,Poor,Low,Low,Medium,Partial,Positive
+R300,Quora,Software Engineering,Yes,Yes,Yes,MNC,Poor,Moderate,Open,High,Medium,Low,Partial,Positive
+R301,Quora,Research,Yes,Yes,No,MNC,Poor,Low,Poor,Medium,High,Medium,No,Positive
+R302,Reddit,Core Engineering,No,No,Restricted,Service-based Company,Poor,High,Poor,Low,Medium,High,No,Negative
+R303,AmbitionBox,Finance,No,Partial,No,Startup Company,Poor,High,Poor,Low,Low,Medium,No,Mixed
+R304,AmbitionBox,Finance,Somewhat,No,No,Startup Company,Good,Moderate,Restricted,Low,High,Medium,No,Positive
+R305,Reddit,Research,Yes,Yes,Yes,MNC,Excellent,High,Poor,High,Low,High,Partial,Positive
+R306,LinkedIn,Media,No,Partial,No,Startup Company,Average,Moderate,Open,Low,High,Low,Partial,Positive
+R307,Reddit,Core Engineering,Somewhat,No,Yes,Service-based Company,Average,Low,Poor,High,Low,Low,No,Positive
+R308,AmbitionBox,Marketing,Yes,Yes,Restricted,Startup Company,Excellent,Overwhelming,Open,Medium,Low,High,No,Negative
+R309,AmbitionBox,Media,Yes,Yes,Restricted,Large Product Company,Average,Moderate,Open,High,High,Low,No,Negative
+R310,LinkedIn,IT,Yes,No,Yes,Government/PSU,Poor,Moderate,Open,High,Medium,Medium,Yes,Positive
+R311,AmbitionBox,Marketing,Somewhat,Yes,Yes,MNC,Good,Overwhelming,Poor,High,Low,High,Partial,Positive
+R312,Quora,Core Engineering,Yes,No,Yes,Service-based Company,Poor,Low,Open,High,Medium,Low,No,Positive
+R313,Quora,Consulting,Yes,Yes,No,NGO,Excellent,Low,Open,Low,High,Low,Yes,Positive
+R314,Reddit,Consulting,No,Partial,No,Startup Company,Poor,High,Poor,Low,Medium,High,No,Negative
+R315,Reddit,Core Engineering,Yes,Yes,No,NGO,Average,Moderate,Open,Low,High,Low,Yes,Positive
+R316,Reddit,Consulting,Yes,Yes,No,Startup Company,Average,Overwhelming,Poor,Low,Medium,High,No,Negative
+R317,Quora,Software Engineering,No,Partial,No,Service-based Company,Average,High,Poor,Low,Low,High,No,Negative
+R318,Quora,Software Engineering,No,Partial,Restricted,Government/PSU,Average,High,Poor,High,Low,High,Partial,Negative
+R319,AmbitionBox,Research,No,Yes,Restricted,Service-based Company,Poor,High,Poor,High,Low,High,No,Negative
+R320,Quora,Media,Yes,Yes,No,MNC,Average,Low,Open,High,Medium,Low,No,Negative
+R321,Quora,Design,Yes,Partial,No,MNC,Average,High,Poor,High,Medium,Medium,No,Negative
+R322,Reddit,IT,Yes,Yes,Yes,Startup Company,Poor,Overwhelming,Poor,Medium,Medium,High,Yes,Positive
+R323,AmbitionBox,IT,No,Yes,Yes,MNC,Poor,Overwhelming,Poor,High,Low,Medium,No,Mixed
+R324,AmbitionBox,Consulting,Yes,Yes,Yes,Service-based Company,Good,High,Open,High,Medium,Low,Partial,Positive
+R325,AmbitionBox,Core Engineering,No,No,Restricted,Startup Company,Poor,Overwhelming,Restricted,Low,Medium,High,No,Negative
+R326,Quora,IT,Somewhat,Yes,Restricted,NGO,Average,Moderate,Open,High,High,Low,Yes,Negative
+R327,Quora,Marketing,No,No,Restricted,Service-based Company,Poor,Overwhelming,Open,Low,Medium,High,No,Negative
+R328,AmbitionBox,Core Engineering,Yes,No,Restricted,Service-based Company,Excellent,Moderate,Open,Low,High,Low,Partial,Mixed
+R329,Reddit,Consulting,No,Yes,Yes,Startup Company,Poor,Moderate,Poor,High,Low,High,Yes,Positive
+R330,AmbitionBox,Media,Yes,Partial,Yes,Startup Company,Excellent,Moderate,Open,High,Low,Medium,No,Negative
+R331,AmbitionBox,Core Engineering,No,No,No,Startup Company,Poor,High,Poor,Low,Low,High,No,Negative
+R332,Quora,Finance,No,No,Yes,Service-based Company,Poor,Moderate,Open,High,Medium,Low,No,Negative
+R333,Quora,Finance,Yes,No,No,Startup Company,Poor,Moderate,Open,Low,High,High,No,Negative
+R334,Quora,Design,No,Partial,No,Startup Company,Poor,High,Poor,Low,High,High,Yes,Positive
+R335,Quora,Media,Yes,Partial,Yes,MNC,Poor,High,Open,Medium,High,High,Partial,Negative
+R336,Reddit,Design,Somewhat,Yes,Yes,Service-based Company,Good,Moderate,Poor,High,Low,Low,Partial,Positive
+R337,Quora,Software Engineering,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,High,High,Medium,Yes,Positive
+R338,Reddit,IT,Yes,Yes,Restricted,MNC,Average,Moderate,Poor,High,High,Low,Partial,Positive
+R339,Quora,HR,Yes,No,Restricted,Startup Company,Excellent,High,Open,High,Medium,Low,Partial,Negative
+R340,Quora,IT,Yes,Yes,Yes,Government/PSU,Average,Moderate,Open,High,Low,Low,Partial,Negative
+R341,Quora,Finance,Yes,Partial,No,Startup Company,Average,High,Open,High,Medium,Medium,Yes,Positive
+R342,Quora,Media,Somewhat,Yes,Yes,MNC,Good,High,Poor,High,Low,High,Yes,Mixed
+R343,AmbitionBox,Data Rience,Yes,Partial,No,Startup Company,Poor,Low,Restricted,Low,High,Low,Partial,Mixed
+R344,AmbitionBox,IT,No,Yes,Restricted,Startup Company,Poor,High,Poor,Medium,Low,High,Partial,Positive
+R345,Quora,HR,Yes,No,Yes,Government/PSU,Poor,High,Poor,Medium,Low,High,No,Negative
+R346,Quora,IT,Yes,Yes,No,MNC,Average,Moderate,Open,High,High,Low,Yes,Positive
+R347,Reddit,Finance,No,Yes,Restricted,Startup Company,Poor,Moderate,Poor,High,Low,Medium,Yes,Positive
+R348,Quora,Design,No,Partial,Restricted,NGO,Poor,High,Poor,Low,Low,High,No,Negative
+R349,Quora,Consulting,No,Yes,Yes,Startup Company,Average,Overwhelming,Poor,Low,Low,High,No,Negative
+R350,AmbitionBox,Media,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,Medium,Low,Medium,Partial,Negative
+R351,LinkedIn,Consulting,Yes,Yes,Yes,MNC,Good,Overwhelming,Open,High,High,Medium,Partial,Positive
+R352,Quora,HR,Yes,Yes,Yes,MNC,Excellent,Moderate,Open,High,High,Medium,Yes,Positive
+R353,LinkedIn,Design,Yes,Partial,No,Large Product Company,Average,High,Poor,Low,Medium,Medium,Partial,Positive
+R354,Quora,Research,Somewhat,Partial,Yes,MNC,Good,Overwhelming,Open,High,Medium,Medium,Yes,Positive
+R355,Reddit,HR,Somewhat,Yes,Yes,MNC,Excellent,Moderate,Restricted,High,High,Medium,Yes,Positive
+R356,LinkedIn,Design,Yes,Yes,Yes,Large Product Company,Average,Moderate,Open,High,High,Low,Yes,Positive
+R357,Company Blog,IT,Yes,Yes,Yes,Service-based Company,Excellent,Moderate,Restricted,Medium,High,High,Partial,Negative
+R358,LinkedIn,Consulting,Yes,Yes,Yes,Service-based Company,Good,Moderate,Open,High,Medium,Medium,Partial,Positive
+R359,LinkedIn,Research,Somewhat,Partial,Yes,Large Product Company,Good,Moderate,Restricted,High,Medium,Medium,No,Positive
+R360,LinkedIn,Research,Yes,Partial,Yes,MNC,Average,High,Open,High,High,Medium,Partial,Positive
+R361,Quora,Core Engineering,Somewhat,Partial,Yes,Government/PSU,Average,Moderate,Open,High,High,Low,Yes,Positive
+R362,LinkedIn,Research,No,Partial,Yes,Service-based Company,Poor,Low,Open,High,Medium,Low,Partial,Positive
+R363,Quora,Marketing,Yes,Yes,Restricted,MNC,Average,Moderate,Restricted,High,Medium,Low,Yes,Positive
+R364,Quora,IT,Yes,Yes,Yes,Service-based Company,Average,High,Open,High,High,High,Partial,Mixed
+R365,LinkedIn,Design,Yes,Yes,Yes,Large Product Company,Excellent,Low,Open,Medium,High,Medium,Yes,Positive
+R366,AmbitionBox,Consulting,Yes,Yes,Restricted,MNC,Good,High,Open,High,Medium,High,Yes,Positive
+R367,Lawctopus,Data Science,Yes,Yes,Restricted,Service-based Company,Excellent,High,Open,High,High,Medium,Yes,Positive
+R368,LinkedIn,Core Engineering,Yes,Yes,Yes,MNC,Good,Moderate,Open,High,High,Low,Partial,Positive
+R369,Company Blog,Consulting,Yes,Yes,Restricted,MNC,Excellent,Overwhelming,Open,Medium,Medium,High,Yes,Positive
+R370,LinkedIn,Research,Yes,Yes,Yes,MNC,Average,Moderate,Open,High,Medium,Low,Yes,Positive
+R371,AmbitionBox,HR,Yes,Yes,Yes,MNC,Average,Moderate,Open,High,High,Low,Yes,Positive
+R372,Quora,IT,Yes,Yes,Yes,Startup Company,Excellent,Moderate,Open,High,Medium,Medium,Yes,Positive
+R373,Quora,Core Engineering,Yes,Yes,Yes,MNC,Good,Moderate,Restricted,High,High,Low,Yes,Positive
+R374,LinkedIn,Data Science,Yes,Yes,Yes,Large Product Company,Average,High,Open,High,High,Low,Yes,Positive
+R375,LinkedIn,Data Science,No,Yes,Yes,Service-based Company,Poor,High,Poor,High,Medium,High,No,Negative
+R376,Quora,Research,Yes,Yes,Restricted,Startup Company,Average,High,Open,High,High,High,No,Negative
+R377,Quora,Design,Yes,No,Yes,Large Product Company,Good,Low,Open,Low,Medium,Medium,No,Mixed
+R378,Quora,Data Science,Yes,Yes,Yes,Service-based Company,Average,Overwhelming,Open,High,High,High,Yes,Mixed
+R379,LinkedIn,Software Engineering,Yes,Yes,Yes,Large Product Company,Good,Moderate,Open,High,High,Low,Yes,Positive
+R380,LinkedIn,Design,Yes,Yes,Yes,NGO,Good,High,Poor,High,Low,Medium,Partial,Positive
+R381,Company Blog,Data Science,Yes,Partial,No,Service-based Company,Good,High,Open,Low,Medium,High,Partial,Mixed
+R382,LinkedIn,Consulting,Yes,Yes,Yes,Service-based Company,Good,High,Open,High,Medium,Low,Yes,Positive
+R383,LinkedIn,Software Engineering,Somewhat,Yes,Yes,Service-based Company,Good,Moderate,Open,High,High,Low,Yes,Positive
+R384,LinkedIn,Consulting,Yes,No,Yes,Service-based Company,Good,Moderate,Open,Medium,Medium,Low,Yes,Positive
+R385,LinkedIn,Research,Yes,Yes,Yes,Service-based Company,Good,Moderate,Poor,Medium,High,High,Yes,Mixed
+R386,Quora,Consulting,Yes,Yes,Yes,MNC,Good,Moderate,Open,High,High,High,Partial,Positive
+R387,AmbitionBox,HR,Yes,Yes,Restricted,Service-based Company,Excellent,Moderate,Open,Medium,Medium,Low,Yes,Positive
+R388,Company Blog,Design,Yes,Yes,Yes,MNC,Excellent,Low,Open,High,High,Medium,Yes,Positive
+R389,Reddit,Data Science,No,Yes,Yes,MNC,Poor,High,Poor,High,Medium,High,No,Negative
+R390,AmbitionBox,Research,Yes,Yes,Restricted,MNC,Average,High,Restricted,Medium,High,Medium,Yes,Positive
+R391,LinkedIn,Data Science,Somewhat,Yes,Yes,Service-based Company,Poor,High,Open,Medium,High,Medium,Yes,Positive
+R392,Company Blog,IT,Yes,Yes,Yes,Large Product Company,Good,High,Poor,High,Medium,Low,Yes,Positive
+R393,Company Blog,Data Science,Yes,Yes,Yes,MNC,Average,Overwhelming,Open,Medium,High,High,Yes,Mixed
+R394,Company Blog,Software Engineering,No,Yes,Restricted,Service-based Company,Average,Low,Open,Low,Low,High,No,Mixed
+R395,LinkedIn,Data Science,Somewhat,Yes,Yes,Service-based Company,Excellent,Overwhelming,Open,High,High,Medium,Yes,Positive
+R396,Company Blog,Design,Yes,Yes,Yes,Service-based Company,Excellent,High,Open,Medium,High,Low,Yes,Mixed
+R397,LinkedIn,IT,Yes,Partial,Yes,MNC,Good,High,Open,High,Low,High,Yes,Mixed
+R398,Lawctopus,Data Science,Yes,Yes,No,Service-based Company,Good,Moderate,Open,Medium,High,Medium,Yes,Positive
+R399,Quora,IT,Yes,Yes,Yes,MNC,Good,High,Open,High,High,Low,Partial,Mixed
+R400,Company Blog,Software Engineering,Yes,Yes,Yes,NGO,Excellent,High,Open,Medium,Medium,Medium,Partial,Negative
+R401,Company Blog,IT,Somewhat,Partial,Yes,MNC,Good,Low,Open,High,Medium,Low,Yes,Positive
+R402,Quora,Core Engineering,Somewhat,Yes,Yes,Large Product Company,Average,Moderate,Poor,Medium,Low,Medium,Yes,Positive
+R403,Company Blog,Data Science,Yes,Yes,Restricted,Startup Company,Excellent,Moderate,Open,Low,High,High,Yes,Positive
+R404,LinkedIn,HR,No,Yes,Yes,Startup Company,Good,Moderate,Open,High,Medium,Medium,Yes,Positive
+R405,Quora,Research,Yes,Partial,Restricted,NGO,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R406,Reddit,Consulting,Somewhat,Yes,Restricted,MNC,Average,High,Poor,High,High,High,Yes,Positive
+R407,Company Blog,Data Science,Yes,Yes,Yes,Service-based Company,Average,High,Open,High,High,Low,Yes,Positive
+R408,Company Blog,Design,Yes,Yes,Yes,MNC,Excellent,Low,Open,Medium,Low,Low,Yes,Positive
+R409,Company Blog,Core Engineering,No,Yes,Restricted,Startup Company,Good,High,Restricted,High,Low,Medium,Yes,Positive
+R410,LinkedIn,Design,Yes,Yes,Yes,MNC,Excellent,High,Open,High,High,Medium,Yes,Positive
+R411,Company Blog,Software Engineering,Somewhat,Yes,Yes,MNC,Average,Low,Poor,High,Medium,Low,Yes,Positive
+R412,Lawctopus,Data Science,Yes,Yes,Yes,MNC,Excellent,Overwhelming,Open,High,Medium,High,Partial,Positive
+R413,Company Blog,Marketing,Yes,Yes,Yes,Service-based Company,Poor,Overwhelming,Open,Medium,High,High,Partial,Positive
+R414,Reddit,Marketing,Yes,Partial,Restricted,Startup Company,Average,High,Open,High,High,High,Yes,Positive
+R415,Company Blog,Design,Yes,Yes,Restricted,MNC,Average,Moderate,Open,High,Medium,Low,Yes,Positive
+R416,Company Blog,Software Engineering,Yes,Partial,Yes,MNC,Good,Moderate,Open,High,High,Low,Yes,Positive
+R417,Quora,Core Engineering,Somewhat,Yes,Yes,MNC,Average,High,Open,High,High,Low,Yes,Positive
+R418,Quora,Core Engineering,Yes,Yes,Yes,Service-based Company,Good,Moderate,Open,High,High,Medium,Yes,Positive
+R419,LinkedIn,Software Engineering,Yes,Partial,Restricted,Large Product Company,Good,High,Open,High,High,Low,Partial,Positive
+R420,LinkedIn,Software Engineering,Yes,Yes,Yes,Large Product Company,Excellent,Low,Open,High,High,High,Partial,Negative
+R421,AmbitionBox,Software Engineering,No,Yes,Restricted,Startup Company,Poor,High,Poor,High,Low,High,Partial,Positive
+R422,LinkedIn,IT,Yes,Yes,Yes,Large Product Company,Good,Low,Open,High,High,Low,Partial,Mixed
+R423,LinkedIn,Design,Yes,Yes,Yes,MNC,Good,Low,Open,High,High,Low,Yes,Positive
+R424,Lawctopus,Design,Yes,Yes,Restricted,NGO,Excellent,Low,Open,High,High,Low,Yes,Positive
+R425,LinkedIn,Software Engineering,Yes,Yes,Yes,MNC,Good,High,Open,High,High,Medium,Yes,Positive
+R426,LinkedIn,Data Science,Yes,Yes,Restricted,Service-based Company,Good,High,Open,High,Medium,Medium,No,Mixed
+R427,LinkedIn,HR,Somewhat,Yes,Yes,Large Product Company,Poor,Moderate,Restricted,High,Medium,Low,No,Mixed
+R428,LinkedIn,HR,Yes,Yes,Restricted,Service-based Company,Excellent,Moderate,Open,High,High,Low,Yes,Positive
+R429,Quora,IT,Yes,Yes,Restricted,MNC,Excellent,Low,Open,Medium,High,Low,Yes,Positive
+R430,Company Blog,Research,Yes,Yes,Restricted,MNC,Average,High,Open,High,Medium,Low,Yes,Positive
+R431,LinkedIn,Software Engineering,Somewhat,Yes,Restricted,NGO,Good,Moderate,Open,High,High,Medium,Yes,Mixed
+R432,Company Blog,IT,Yes,Yes,Yes,Service-based Company,Good,High,Open,High,High,Medium,Partial,Positive
+R433,LinkedIn,Research,Yes,Yes,Yes,MNC,Poor,Overwhelming,Open,High,High,High,Yes,Positive
+R434,LinkedIn,Data Science,Yes,Yes,Yes,Large Product Company,Poor,High,Open,High,High,High,Yes,Positive
+R435,LinkedIn,Consulting,Yes,Yes,Yes,MNC,Good,Moderate,Open,High,High,Low,Partial,Negative
+R436,Company Blog,Core Engineering,Yes,Partial,Yes,Large Product Company,Poor,High,Restricted,High,High,High,Yes,Negative
+R437,LinkedIn,Data Science,Yes,Yes,Yes,Service-based Company,Excellent,High,Open,High,High,Low,Partial,Negative
+R438,LinkedIn,Consulting,Somewhat,No,Restricted,MNC,Average,Moderate,Open,Low,High,Low,Yes,Positive
+R439,Company Blog,HR,Yes,Yes,No,Service-based Company,Good,Low,Open,Medium,Medium,High,Yes,Positive
+R440,LinkedIn,Marketing,Yes,Yes,Yes,Government/PSU,Good,Low,Open,High,High,Medium,Yes,Positive
+R441,Company Blog,IT,Somewhat,Partial,Yes,MNC,Good,High,Poor,Medium,Medium,Low,Yes,Positive
+R442,LinkedIn,Marketing,Yes,Yes,Yes,MNC,Average,Moderate,Open,High,High,Low,Yes,Positive
+R443,LinkedIn,IT,Yes,Yes,No,Startup Company,Average,Overwhelming,Open,Medium,Medium,High,Partial,Positive
+R444,Quora,Software Engineering,Yes,Yes,Yes,Service-based Company,Good,Moderate,Open,Medium,Medium,Low,No,Positive
+R445,LinkedIn,Consulting,No,Yes,Yes,Service-based Company,Excellent,Moderate,Poor,High,Medium,Low,Yes,Positive
+R446,LinkedIn,Software Engineering,Yes,Yes,Yes,MNC,Good,Overwhelming,Open,High,High,Low,Yes,Positive
+R447,Reddit,Marketing,Somewhat,Yes,No,Service-based Company,Good,Moderate,Open,Medium,High,Low,Yes,Mixed
+R448,LinkedIn,Core Engineering,Yes,Yes,Yes,MNC,Average,Moderate,Open,High,High,Low,Yes,Mixed
+R449,LinkedIn,Data Science,Yes,Yes,Yes,Large Product Company,Average,Moderate,Restricted,High,High,High,Yes,Mixed
+R450,Company Blog,Data Science,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,Medium,Medium,High,Yes,Positive
+R451,AmbitionBox,IT,Somewhat,Yes,Yes,MNC,Excellent,Moderate,Restricted,Medium,Medium,Medium,Partial,Mixed
+R452,Quora,HR,Yes,Yes,Yes,MNC,Excellent,Moderate,Open,High,High,High,Yes,Positive
+R453,Company Blog,Core Engineering,Yes,Yes,Yes,NGO,Poor,Overwhelming,Open,High,High,Medium,No,Mixed
+R454,Quora,Software Engineering,Yes,Yes,Restricted,Government/PSU,Good,Moderate,Open,High,High,Low,Partial,Mixed
+R455,LinkedIn,Software Engineering,Yes,Yes,Restricted,Large Product Company,Good,Low,Restricted,Medium,Low,Low,Yes,Positive
+R456,Quora,IT,Yes,Partial,Yes,Service-based Company,Excellent,Moderate,Poor,High,Medium,Medium,Yes,Positive
+R457,LinkedIn,Software Engineering,Yes,Yes,Yes,Large Product Company,Excellent,Overwhelming,Open,High,High,Low,Yes,Positive
+R458,Quora,HR,Somewhat,Yes,No,Service-based Company,Good,Moderate,Restricted,High,Medium,Low,Yes,Positive
+R459,LinkedIn,HR,Yes,Yes,Yes,Service-based Company,Good,Low,Open,High,Medium,Low,Yes,Positive
+R460,Quora,IT,Somewhat,Yes,Yes,Startup Company,Average,High,Poor,High,Low,Medium,No,Positive
+R461,LinkedIn,Software Engineering,Yes,Yes,Yes,Large Product Company,Average,High,Open,High,Medium,Medium,Yes,Positive
+R462,Quora,Core Engineering,Yes,Partial,Yes,Large Product Company,Average,High,Open,High,High,Medium,Yes,Positive
+R463,LinkedIn,HR,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,High,Medium,Low,Partial,Positive
+R464,Lawctopus,Data Science,Somewhat,Yes,Yes,MNC,Average,Low,Open,High,High,Medium,Yes,Positive
+R465,LinkedIn,Marketing,Yes,Yes,No,Large Product Company,Excellent,Moderate,Open,Medium,Low,Medium,Yes,Positive
+R466,LinkedIn,Core Engineering,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,High,High,Medium,Yes,Positive
+R467,Reddit,Core Engineering,Yes,Partial,Yes,MNC,Excellent,Moderate,Restricted,High,High,Low,Yes,Positive
+R468,LinkedIn,Core Engineering,Yes,No,Restricted,Government/PSU,Poor,Low,Open,Medium,High,Low,Yes,Positive
+R469,LinkedIn,Marketing,Yes,Partial,Yes,Service-based Company,Average,Moderate,Open,Medium,Medium,Low,Partial,Negative
+R470,Lawctopus,Research,Somewhat,Yes,No,Service-based Company,Average,High,Restricted,Low,Medium,Medium,Partial,Positive
+R471,Quora,Core Engineering,Yes,Yes,Yes,Large Product Company,Excellent,Low,Open,Medium,Medium,Low,Yes,Positive
+R472,LinkedIn,Data Science,Yes,Yes,Yes,MNC,Good,Low,Open,Medium,High,Low,Yes,Positive
+R473,LinkedIn,Consulting,Yes,Yes,Yes,Government/PSU,Average,High,Open,High,Medium,High,Yes,Positive
+R474,Lawctopus,Core Engineering,No,Yes,Yes,MNC,Poor,High,Open,High,High,High,Yes,Positive
+R475,LinkedIn,Research,Somewhat,Yes,Yes,MNC,Poor,Moderate,Open,Medium,Medium,Medium,Yes,Positive
+R476,Company Blog,HR,Yes,Partial,Restricted,Large Product Company,Excellent,Overwhelming,Open,Medium,High,Medium,Yes,Positive
+R477,Quora,Consulting,Somewhat,Partial,Yes,Service-based Company,Average,Moderate,Restricted,Low,Low,Medium,No,Negative
+R478,LinkedIn,Data Science,Yes,Yes,Yes,Large Product Company,Good,High,Restricted,Low,High,Low,Yes,Positive
+R479,AmbitionBox,Software Engineering,No,No,Yes,MNC,Poor,High,Open,High,Medium,High,Partial,Mixed
+R480,LinkedIn,Research,No,Yes,Restricted,Government/PSU,Excellent,High,Open,High,Medium,Medium,Yes,Positive
+R481,Quora,Data Science,Yes,Yes,No,Startup Company,Excellent,High,Open,Medium,High,Low,Yes,Positive
+R482,Lawctopus,Consulting,Yes,Partial,Yes,Service-based Company,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R483,Quora,Software Engineering,Yes,Yes,Yes,MNC,Excellent,High,Open,High,Medium,High,Yes,Positive
+R484,LinkedIn,IT,Yes,Yes,Yes,Large Product Company,Good,High,Open,Medium,Medium,High,Yes,Positive
+R485,LinkedIn,Data Science,Yes,Yes,Yes,Service-based Company,Good,High,Open,Medium,Medium,Medium,Partial,Mixed
+R486,LinkedIn,HR,Yes,Yes,Yes,Service-based Company,Excellent,Low,Open,High,High,Low,Yes,Positive
+R487,LinkedIn,Consulting,Yes,Yes,Restricted,Large Product Company,Excellent,High,Open,Medium,High,Low,Yes,Positive
+R488,Quora,Design,Somewhat,No,Yes,MNC,Poor,High,Open,High,Medium,High,Yes,Positive
+R489,LinkedIn,Core Engineering,Yes,No,Yes,Large Product Company,Excellent,Moderate,Restricted,Medium,Medium,Low,No,Positive
+R490,LinkedIn,Core Engineering,Yes,Partial,Yes,Large Product Company,Good,Overwhelming,Restricted,High,High,Low,Yes,Positive
+R491,Company Blog,IT,Yes,Yes,Yes,MNC,Good,Low,Open,Medium,High,High,Yes,Mixed
+R492,Company Blog,Consulting,Yes,No,No,Service-based Company,Excellent,High,Open,Low,High,High,No,Positive
+R493,LinkedIn,Design,Somewhat,Yes,Yes,Service-based Company,Good,High,Open,High,High,Low,Yes,Positive
+R494,LinkedIn,Data Science,Yes,Yes,Yes,MNC,Good,Low,Open,High,High,Low,Yes,Positive
+R495,Company Blog,Software Engineering,Yes,Yes,Yes,Large Product Company,Good,Moderate,Open,Low,High,Low,Yes,Positive
+R496,LinkedIn,Research,Yes,Partial,Yes,MNC,Good,High,Restricted,High,High,Low,Yes,Positive
+R497,Quora,Marketing,Somewhat,Yes,Yes,MNC,Good,High,Poor,High,Low,Medium,Partial,Mixed
+R498,Company Blog,Design,Yes,Yes,Restricted,Service-based Company,Average,High,Open,High,High,High,Yes,Positive
+R499,LinkedIn,IT,Yes,Yes,Yes,Large Product Company,Excellent,Moderate,Open,Medium,Medium,Low,Yes,Positive
+R500,Quora,Marketing,Yes,Yes,Yes,MNC,Good,High,Open,High,High,Low,Yes,Positive
+R501,Quora,Data Science,Yes,Yes,Yes,MNC,Average,Moderate,Restricted,High,High,Medium,Yes,Positive
+R502,Quora,Software Engineering,No,Yes,Restricted,MNC,Poor,Moderate,Poor,Medium,High,Low,Yes,Positive
+R503,LinkedIn,HR,Somewhat,Yes,Yes,Startup Company,Poor,Moderate,Restricted,High,High,Low,No,Positive
+R504,Company Blog,Software Engineering,Yes,Partial,Yes,Large Product Company,Poor,Low,Open,High,High,Low,Partial,Negative
+R505,LinkedIn,Data Science,No,Yes,No,Startup Company,Average,Moderate,Restricted,High,Medium,High,Yes,Positive
+R506,AmbitionBox,Consulting,Yes,Partial,No,Large Product Company,Good,Low,Open,Low,Medium,Low,No,Positive
+R507,LinkedIn,IT,Yes,Yes,Yes,Service-based Company,Excellent,High,Open,High,Medium,Medium,Partial,Negative
+R508,Company Blog,Design,Yes,No,Yes,NGO,Good,Low,Open,Medium,High,Low,Partial,Mixed
+R509,Quora,IT,Yes,Yes,Yes,MNC,Excellent,Moderate,Open,Medium,Medium,Medium,Yes,Positive
+R510,Lawctopus,IT,Yes,Yes,No,Service-based Company,Excellent,High,Open,Medium,High,Low,Partial,Positive
+R511,AmbitionBox,HR,Yes,Yes,Yes,Large Product Company,Excellent,Moderate,Open,High,Medium,Low,Yes,Positive
+R512,Quora,HR,Yes,Partial,Yes,Government/PSU,Excellent,Moderate,Open,High,Low,Low,Yes,Positive
+R513,LinkedIn,HR,Yes,Yes,Restricted,MNC,Good,High,Open,High,High,Low,Yes,Positive
+R514,Quora,Core Engineering,Yes,Yes,Yes,MNC,Excellent,High,Restricted,Medium,High,Medium,Yes,Positive
+R515,LinkedIn,Core Engineering,Yes,Yes,Yes,MNC,Good,Moderate,Open,High,High,Low,Yes,Positive
+R516,Reddit,Design,Yes,Yes,Restricted,Large Product Company,Average,Overwhelming,Open,High,Medium,Low,Yes,Positive
+R517,LinkedIn,Core Engineering,No,Yes,Yes,Startup Company,Average,High,Restricted,Medium,Low,High,Yes,Negative
+R518,Company Blog,Software Engineering,Somewhat,Yes,Yes,Large Product Company,Average,Moderate,Restricted,High,Medium,Low,Yes,Mixed
+R519,LinkedIn,Core Engineering,Yes,Yes,Restricted,Large Product Company,Poor,Moderate,Open,Medium,High,Low,Yes,Positive
+R520,LinkedIn,Core Engineering,Somewhat,Yes,Yes,Large Product Company,Good,High,Open,Medium,Low,High,Partial,Mixed
+R521,LinkedIn,Core Engineering,Yes,Yes,Yes,Service-based Company,Good,Moderate,Restricted,High,High,Low,Yes,Mixed
+R522,Lawctopus,Design,Yes,Partial,Yes,MNC,Good,High,Open,High,High,High,Yes,Positive
+R523,Lawctopus,Research,Yes,Yes,Yes,MNC,Good,High,Open,Medium,High,Low,Yes,Positive
+R524,Company Blog,Research,No,Yes,Yes,Service-based Company,Good,High,Open,High,Medium,Medium,Yes,Positive
+R525,LinkedIn,HR,Yes,Yes,Yes,MNC,Good,Low,Open,High,Low,Medium,Partial,Negative
+R526,LinkedIn,Core Engineering,Yes,Yes,Yes,Large Product Company,Excellent,Overwhelming,Restricted,High,High,Medium,Yes,Positive
+R527,LinkedIn,Marketing,No,Yes,Restricted,Service-based Company,Average,Moderate,Open,Medium,Medium,Low,Yes,Positive
+R528,LinkedIn,Data Science,Yes,Partial,No,NGO,Average,Low,Open,Low,High,High,No,Negative
+R529,LinkedIn,Marketing,Yes,Yes,Yes,MNC,Good,High,Open,Medium,Medium,Medium,Partial,Positive
+R530,LinkedIn,IT,No,Yes,Yes,Startup Company,Poor,High,Poor,High,Low,High,Partial,Mixed
+R531,LinkedIn,Consulting,Somewhat,Yes,Yes,MNC,Poor,Overwhelming,Poor,High,High,Medium,Partial,Positive
+R532,LinkedIn,Research,No,Partial,Restricted,Service-based Company,Poor,Low,Poor,Medium,Medium,High,No,Positive
+R533,LinkedIn,Software Engineering,Yes,Yes,No,NGO,Good,Moderate,Restricted,High,Medium,Medium,Yes,Positive
+R534,Lawctopus,Design,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,High,High,High,Yes,Mixed
+R535,LinkedIn,IT,Somewhat,Yes,Yes,Service-based Company,Average,Moderate,Open,High,Medium,Low,No,Mixed
+R536,LinkedIn,Software Engineering,No,Yes,No,Startup Company,Poor,High,Poor,Medium,Low,High,Yes,Mixed
+R537,LinkedIn,Data Science,Yes,Partial,Yes,Large Product Company,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R538,Quora,HR,Yes,No,Yes,Large Product Company,Excellent,High,Poor,Medium,Medium,High,Partial,Mixed
+R539,Company Blog,Marketing,Yes,Yes,Restricted,Large Product Company,Good,High,Open,High,High,Low,Partial,Positive
+R540,LinkedIn,Software Engineering,Yes,Partial,Yes,Service-based Company,Average,Low,Open,High,Medium,Low,Partial,Positive
+R541,LinkedIn,Marketing,Yes,Yes,Yes,Service-based Company,Good,High,Open,High,High,Medium,Yes,Positive
+R542,LinkedIn,Research,Yes,Yes,Yes,Large Product Company,Excellent,Low,Open,High,High,Low,Yes,Positive
+R543,LinkedIn,Marketing,Somewhat,Yes,Yes,MNC,Good,Moderate,Open,High,High,Low,Partial,Positive
+R544,Company Blog,Consulting,Yes,Partial,Yes,MNC,Average,Overwhelming,Open,High,High,Low,Yes,Positive
+R545,LinkedIn,Software Engineering,No,Partial,No,Service-based Company,Poor,Moderate,Restricted,Low,Medium,Low,No,Positive
+R546,Quora,IT,Somewhat,Yes,Restricted,MNC,Good,High,Poor,High,High,High,No,Negative
+R547,Company Blog,Research,Yes,Yes,Restricted,Startup Company,Excellent,Overwhelming,Open,Medium,Medium,High,Partial,Mixed
+R548,Reddit,Software Engineering,Yes,Yes,Yes,Large Product Company,Excellent,Low,Open,High,Medium,Low,Partial,Negative
+R549,LinkedIn,Marketing,Somewhat,Yes,Yes,MNC,Average,Low,Restricted,Medium,Medium,Low,Partial,Positive
+R550,LinkedIn,Consulting,Somewhat,Yes,Restricted,Startup Company,Average,Overwhelming,Restricted,Medium,High,Medium,Yes,Mixed
+R551,Quora,Research,Yes,Yes,Yes,MNC,Average,High,Open,Medium,High,Medium,Yes,Positive
+R552,LinkedIn,Design,Yes,Yes,Yes,Service-based Company,Average,Moderate,Open,Low,Medium,Medium,Yes,Positive
+R553,LinkedIn,Core Engineering,Yes,Yes,Restricted,Service-based Company,Good,High,Open,High,High,Medium,Partial,Positive
+R554,Company Blog,Core Engineering,Somewhat,Partial,Restricted,MNC,Excellent,Moderate,Restricted,Low,High,High,Yes,Positive
+R555,Company Blog,Design,Yes,Yes,Yes,Startup Company,Excellent,High,Open,Medium,High,High,No,Negative
+R556,LinkedIn,Software Engineering,Yes,Partial,Yes,Service-based Company,Excellent,Low,Restricted,High,High,High,Yes,Positive
+R557,LinkedIn,Design,No,Yes,Yes,Service-based Company,Good,Low,Restricted,High,Low,Low,Yes,Positive
+R558,Company Blog,Research,Yes,Yes,Yes,Startup Company,Good,Overwhelming,Open,High,Medium,Low,Partial,Mixed
+R559,Quora,Consulting,Yes,Yes,No,Startup Company,Excellent,Overwhelming,Open,Medium,High,Medium,Yes,Positive
+R560,Quora,Marketing,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,Medium,High,Low,Partial,Positive
+R561,LinkedIn,HR,Somewhat,Yes,Yes,MNC,Average,Moderate,Open,High,High,Low,Yes,Positive
+R562,Company Blog,Research,No,Yes,Restricted,MNC,Average,High,Poor,High,Low,High,No,Negative
+R563,Company Blog,Design,Yes,Yes,Yes,Large Product Company,Excellent,Moderate,Open,High,High,High,Yes,Mixed
+R564,LinkedIn,Research,Somewhat,Yes,Yes,NGO,Poor,Moderate,Open,High,Medium,Low,Partial,Negative
+R565,Quora,Data Science,Yes,Partial,Yes,Service-based Company,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R566,Quora,HR,Somewhat,Partial,Yes,Large Product Company,Average,Moderate,Open,High,Medium,Low,Yes,Positive
+R567,Quora,Marketing,Yes,Yes,Yes,Large Product Company,Average,High,Restricted,High,High,Medium,Yes,Positive
+R568,LinkedIn,Data Science,Yes,Yes,No,Startup Company,Average,Low,Open,High,High,Low,Partial,Positive
+R569,Lawctopus,Core Engineering,Somewhat,Partial,Yes,MNC,Average,Low,Open,High,High,Low,Yes,Positive
+R570,Company Blog,Data Science,Yes,Yes,Restricted,MNC,Excellent,Moderate,Restricted,High,High,Low,Yes,Positive
+R571,LinkedIn,Consulting,Somewhat,Yes,Yes,MNC,Excellent,Moderate,Poor,High,Low,Low,Yes,Mixed
+R572,Company Blog,IT,No,Yes,Yes,Service-based Company,Average,Low,Restricted,High,Low,Low,No,Positive
+R573,Company Blog,Consulting,Yes,Yes,Yes,Large Product Company,Good,Moderate,Open,High,Medium,High,Yes,Positive
+R574,LinkedIn,Data Science,Somewhat,Yes,Yes,MNC,Good,High,Open,High,Medium,High,Yes,Mixed
+R575,LinkedIn,Marketing,No,Yes,No,Service-based Company,Average,Moderate,Open,Medium,Medium,Low,Partial,Mixed
+R576,LinkedIn,Marketing,Yes,Yes,Yes,MNC,Excellent,High,Poor,High,Medium,High,Yes,Negative
+R577,LinkedIn,HR,Yes,Partial,Yes,Service-based Company,Average,Low,Open,Medium,High,Medium,Yes,Positive
+R578,LinkedIn,HR,Yes,Yes,Yes,MNC,Excellent,High,Open,High,High,Medium,Yes,Positive
+R579,Company Blog,Design,Somewhat,Yes,Restricted,Service-based Company,Poor,Overwhelming,Open,High,High,High,Yes,Negative
+R580,LinkedIn,Core Engineering,Yes,Yes,Restricted,Large Product Company,Excellent,High,Open,Medium,High,High,Yes,Mixed
+R581,Quora,Research,Yes,Partial,Yes,Large Product Company,Good,Overwhelming,Open,High,High,Low,Yes,Positive
+R582,Company Blog,Consulting,Yes,Yes,Yes,MNC,Excellent,High,Open,Medium,High,Low,Partial,Positive
+R583,LinkedIn,Design,Yes,Yes,Yes,Service-based Company,Excellent,Moderate,Open,High,Medium,Medium,Yes,Positive
+R584,LinkedIn,Consulting,Yes,Yes,Yes,MNC,Excellent,Low,Open,High,High,Low,Yes,Positive
+R585,Quora,Marketing,Somewhat,Yes,Yes,MNC,Good,Moderate,Restricted,High,Medium,Low,Partial,Positive
+R586,LinkedIn,IT,Yes,Yes,Yes,Large Product Company,Good,Moderate,Open,High,High,High,Yes,Negative
+R587,Company Blog,Research,Yes,Yes,Restricted,Service-based Company,Average,High,Open,High,High,Low,Yes,Positive
+R588,LinkedIn,IT,Yes,Yes,Yes,NGO,Good,Low,Restricted,High,High,Low,No,Positive
+R589,LinkedIn,Design,Yes,Yes,No,Service-based Company,Good,High,Open,Medium,High,Medium,Partial,Positive
+R590,LinkedIn,Design,Somewhat,Yes,Yes,MNC,Good,High,Open,High,Medium,Low,No,Positive
+R591,Company Blog,IT,No,Yes,Restricted,MNC,Poor,Moderate,Open,Medium,Medium,Low,No,Positive
+R592,AmbitionBox,Software Engineering,Yes,Yes,No,Service-based Company,Good,High,Open,Low,Low,Medium,Yes,Mixed
+R593,LinkedIn,Marketing,No,Yes,Yes,MNC,Poor,High,Restricted,High,Low,Medium,Partial,Positive
+R594,LinkedIn,Consulting,Yes,No,Yes,Large Product Company,Good,Moderate,Open,Medium,Medium,Low,Partial,Positive
+R595,Company Blog,Core Engineering,Yes,Partial,Yes,Service-based Company,Excellent,High,Open,High,Medium,Low,Yes,Positive
+R596,Company Blog,Data Science,Yes,Yes,Yes,Service-based Company,Excellent,Low,Restricted,High,High,Medium,Yes,Positive
+R597,LinkedIn,Consulting,Yes,Yes,No,Service-based Company,Excellent,Moderate,Open,Medium,High,High,Partial,Mixed
+R598,Lawctopus,Consulting,Yes,Yes,Restricted,MNC,Average,Overwhelming,Open,High,High,High,Partial,Mixed
+R599,LinkedIn,Software Engineering,No,Yes,Yes,Service-based Company,Poor,Low,Open,High,Medium,Low,No,Mixed
+R600,Company Blog,Software Engineering,Yes,No,Yes,Startup Company,Good,High,Open,Medium,Medium,Low,Yes,Positive
+R601,LinkedIn,IT,Yes,Yes,Yes,Large Product Company,Good,High,Open,Medium,High,Low,Partial,Mixed
+R602,Quora,Core Engineering,Yes,Yes,No,NGO,Excellent,Moderate,Open,High,Medium,Low,Yes,Positive
+R603,Quora,HR,Somewhat,Yes,Yes,Startup Company,Excellent,Overwhelming,Poor,High,Medium,High,Yes,Positive
+R604,LinkedIn,Consulting,Yes,Yes,Yes,Large Product Company,Poor,Low,Open,High,Medium,Low,Partial,Positive
+R605,Quora,Research,Yes,Partial,Yes,Service-based Company,Good,Low,Restricted,High,Medium,Medium,Yes,Positive
+R606,Company Blog,Data Science,Somewhat,Yes,Restricted,MNC,Poor,Moderate,Open,High,Medium,Medium,No,Positive
+R607,LinkedIn,HR,Yes,Yes,Restricted,MNC,Average,Low,Poor,Medium,Medium,Low,Yes,Positive
+R608,Company Blog,Core Engineering,Yes,Yes,Yes,Large Product Company,Average,High,Open,High,High,Low,Yes,Positive
+R609,Company Blog,Core Engineering,Yes,Yes,Yes,Large Product Company,Excellent,High,Restricted,Medium,High,Low,Yes,Positive
+R610,Company Blog,Marketing,Yes,Yes,Yes,NGO,Excellent,High,Open,High,High,Medium,Yes,Positive
+R611,LinkedIn,Software Engineering,Yes,Yes,Restricted,Service-based Company,Average,High,Open,Medium,Medium,Low,Yes,Mixed
+R612,Quora,Software Engineering,Yes,Yes,Yes,Large Product Company,Excellent,Moderate,Open,High,High,Medium,Yes,Positive
+R613,LinkedIn,Consulting,Yes,Yes,Yes,MNC,Average,Moderate,Open,High,High,High,Yes,Positive
+R614,LinkedIn,Research,Yes,Yes,Yes,Service-based Company,Good,Moderate,Open,High,High,Low,Yes,Positive
+R615,LinkedIn,Software Engineering,Yes,Yes,Yes,Large Product Company,Poor,Moderate,Open,Medium,Low,Medium,Partial,Negative
+R616,LinkedIn,Research,Somewhat,Yes,Yes,Service-based Company,Good,High,Poor,High,High,High,Yes,Positive
+R617,Quora,Software Engineering,Yes,Yes,Restricted,Large Product Company,Excellent,Moderate,Open,Medium,High,Low,Partial,Mixed
+R618,LinkedIn,Marketing,Yes,Yes,Restricted,MNC,Excellent,Moderate,Open,High,High,Low,Yes,Positive
+R619,Lawctopus,Consulting,Yes,Partial,Yes,Service-based Company,Good,Moderate,Open,High,Medium,Low,Yes,Positive
+R620,LinkedIn,Data Science,Yes,No,Yes,Service-based Company,Excellent,Moderate,Open,Medium,High,High,Yes,Positive
+R621,Quora,Consulting,No,Yes,Yes,Service-based Company,Good,Moderate,Poor,Medium,Medium,Low,Yes,Positive
+R622,LinkedIn,Data Science,Yes,Yes,Yes,MNC,Average,Overwhelming,Open,Medium,Low,Medium,No,Negative
+R623,Company Blog,HR,Yes,Partial,Yes,Startup Company,Excellent,Moderate,Open,High,High,Low,Yes,Positive
+R624,LinkedIn,HR,No,Partial,Yes,Service-based Company,Average,Low,Restricted,High,Medium,Low,Yes,Positive
+R625,LinkedIn,Core Engineering,Yes,Yes,Restricted,MNC,Poor,High,Open,High,Medium,High,No,Negative
+R626,LinkedIn,Marketing,Somewhat,Yes,Yes,Service-based Company,Excellent,Moderate,Restricted,Medium,Medium,Low,Yes,Positive
+R627,Lawctopus,Design,Yes,Yes,Yes,MNC,Good,High,Open,High,Medium,Low,Partial,Mixed
+R628,LinkedIn,Data Science,Yes,Yes,Yes,MNC,Excellent,High,Open,Medium,High,Low,Partial,Mixed
+R629,Company Blog,HR,Yes,Yes,Yes,Large Product Company,Average,Moderate,Open,High,Medium,Low,Yes,Positive
+R630,Company Blog,Design,Yes,Yes,Yes,MNC,Good,High,Open,High,High,Medium,Yes,Positive
+R631,Company Blog,Data Science,No,Yes,Yes,Service-based Company,Poor,High,Open,Low,Low,Medium,No,Negative
+R632,LinkedIn,HR,Yes,Yes,Yes,Large Product Company,Excellent,Moderate,Restricted,Medium,High,Medium,Yes,Positive
+R633,LinkedIn,Consulting,Yes,Partial,Yes,NGO,Excellent,Moderate,Open,High,High,Medium,Yes,Positive
+R634,LinkedIn,IT,Yes,Yes,Yes,Large Product Company,Excellent,Overwhelming,Open,High,High,Low,Yes,Positive
+R635,Company Blog,Data Science,Yes,Yes,Yes,Large Product Company,Average,High,Open,High,High,Medium,Yes,Positive
+R636,Quora,Consulting,Yes,Yes,Restricted,Large Product Company,Excellent,High,Restricted,High,High,Low,Partial,Positive
+R637,LinkedIn,Core Engineering,Yes,Yes,Yes,MNC,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R638,Quora,Design,Yes,Yes,Yes,MNC,Good,High,Poor,High,Medium,Medium,Yes,Positive
+R639,LinkedIn,Software Engineering,No,Yes,Restricted,Service-based Company,Good,High,Poor,High,Medium,Low,Yes,Positive
+R640,LinkedIn,Software Engineering,Yes,Yes,Yes,Service-based Company,Good,Low,Open,Medium,High,Medium,Yes,Positive
+R641,Company Blog,Core Engineering,Yes,Yes,Yes,Large Product Company,Excellent,High,Open,Medium,Medium,Medium,Yes,Positive
+R642,LinkedIn,Data Science,Yes,Yes,Yes,MNC,Average,Moderate,Open,Low,High,Low,Yes,Positive
+R643,Company Blog,Consulting,Yes,Yes,Yes,MNC,Good,Moderate,Open,High,High,Low,Yes,Positive
+R644,LinkedIn,Core Engineering,No,Yes,Yes,Service-based Company,Average,High,Open,Medium,High,High,Yes,Mixed
+R645,AmbitionBox,Data Science,Somewhat,Yes,Restricted,Startup Company,Average,High,Open,High,High,Medium,Yes,Positive
+R646,LinkedIn,HR,Somewhat,Yes,Yes,MNC,Average,Overwhelming,Restricted,Medium,High,Low,Yes,Positive
+R647,Quora,IT,Yes,No,Restricted,Service-based Company,Good,Moderate,Open,Low,High,Low,Yes,Positive
+R648,LinkedIn,HR,Yes,Yes,Yes,MNC,Good,Moderate,Open,High,Medium,Low,Partial,Positive
+R649,LinkedIn,Data Science,Somewhat,No,No,Service-based Company,Good,Moderate,Open,Medium,High,Low,Partial,Positive
+R650,LinkedIn,Marketing,Yes,Yes,Restricted,Startup Company,Excellent,High,Open,High,High,High,Yes,Positive
+R651,Company Blog,Data Science,Yes,Partial,No,NGO,Excellent,Low,Open,High,High,Low,Partial,Positive
+R652,Company Blog,Data Science,No,Yes,Restricted,Service-based Company,Good,Moderate,Poor,High,Medium,High,Partial,Mixed
+R653,Company Blog,Software Engineering,Yes,No,Restricted,Service-based Company,Excellent,Moderate,Restricted,High,Medium,Low,Yes,Positive
+R654,Company Blog,Research,Yes,Yes,Yes,Large Product Company,Good,Overwhelming,Open,High,High,High,Yes,Positive
+R655,Quora,IT,Yes,Yes,Restricted,MNC,Good,High,Open,High,High,Low,Yes,Positive
+R656,LinkedIn,HR,Yes,Partial,Yes,MNC,Excellent,Moderate,Open,High,High,Low,Yes,Positive
+R657,LinkedIn,Consulting,Somewhat,Yes,Yes,Service-based Company,Poor,Moderate,Poor,High,Medium,Medium,Partial,Mixed
+R658,Quora,HR,Yes,Yes,Restricted,NGO,Good,Moderate,Open,Medium,High,Medium,Yes,Positive
+R659,LinkedIn,Consulting,Yes,Yes,Yes,Service-based Company,Average,Moderate,Open,High,Low,Medium,No,Negative
+R660,LinkedIn,Data Science,Yes,Yes,Yes,MNC,Average,High,Open,High,High,Medium,Yes,Positive
+R661,Quora,Data Science,Somewhat,Yes,Yes,Government/PSU,Excellent,Low,Poor,High,Medium,Low,Partial,Positive
+R662,LinkedIn,Marketing,Yes,No,Yes,Service-based Company,Good,Low,Open,Low,High,Low,Partial,Negative
+R663,LinkedIn,Research,No,Yes,Yes,Large Product Company,Good,High,Poor,High,Medium,High,Yes,Positive
+R664,Company Blog,HR,Yes,Yes,Yes,Large Product Company,Good,Moderate,Open,High,Medium,Low,Yes,Positive
+R665,Reddit,Data Science,Somewhat,Yes,Yes,Service-based Company,Good,Overwhelming,Restricted,Low,High,Medium,Yes,Positive
+R666,Reddit,Marketing,No,Yes,No,Startup Company,Average,Moderate,Open,Medium,High,Low,Yes,Positive
+R667,LinkedIn,Data Science,Yes,No,Yes,MNC,Excellent,High,Open,Medium,Medium,Low,No,Positive
+R668,LinkedIn,Consulting,Yes,Yes,Yes,MNC,Excellent,Moderate,Poor,High,Medium,High,Yes,Positive
+R669,Company Blog,Data Science,Yes,Yes,Yes,MNC,Average,Moderate,Poor,Medium,Medium,High,Yes,Positive
+R670,Quora,IT,No,Yes,Yes,NGO,Good,High,Restricted,Medium,Low,Medium,Yes,Positive
+R671,Company Blog,HR,Yes,Yes,Yes,Large Product Company,Good,High,Open,High,High,Low,Yes,Positive
+R672,LinkedIn,Consulting,Yes,Yes,Yes,MNC,Good,Moderate,Open,Medium,High,Low,Yes,Positive
+R673,Quora,Data Science,Yes,Yes,Yes,Large Product Company,Good,High,Poor,High,High,High,Partial,Mixed
+R674,LinkedIn,Software Engineering,Yes,Yes,Restricted,Government/PSU,Average,Moderate,Open,High,High,Low,Yes,Positive
+R675,Quora,Data Science,Yes,Yes,Restricted,Service-based Company,Good,Moderate,Open,High,Medium,Low,Yes,Positive
+R676,LinkedIn,Software Engineering,No,Yes,Yes,Startup Company,Good,Moderate,Poor,Medium,High,Medium,Yes,Positive
