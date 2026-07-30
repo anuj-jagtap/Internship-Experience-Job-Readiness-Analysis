@@ -137,7 +137,7 @@ Recommendations
 
 ## Dashboard 1
 
-![Dashboard 1](Images/dashboard1.png)
+![Dashboard 1]([Images/dashboard1.png](https://github.com/anuj-jagtap/Internship-Experience-Job-Readiness-Analysis/commit/5e377c844fe68b8ce177daef079f5717a4614fa5))
 
 ---
 
