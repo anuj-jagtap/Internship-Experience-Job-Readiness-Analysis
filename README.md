@@ -133,32 +133,6 @@ Recommendations
 
 ---
 
-# 📷 Dashboard Preview
-
-## Dashboard 1
-
-![Dashboard 1]([Images/dashboard1.png](https://github.com/anuj-jagtap/Internship-Experience-Job-Readiness-Analysis/commit/5e377c844fe68b8ce177daef079f5717a4614fa5))
-
----
-
-## Dashboard 2
-
-![Dashboard 2](Images/dashboard2.png)
-
----
-
-## Dashboard 3
-
-![Dashboard 3](Images/dashboard3.png)
-
----
-
-## Dashboard 4
-
-![Dashboard 4](Images/dashboard4.png)
-
----
-
 # 📈 Key Findings
 
 - 51% of students became job-ready after completing internships.
