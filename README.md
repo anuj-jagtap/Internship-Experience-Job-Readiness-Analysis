@@ -194,7 +194,7 @@ Internship-Experience-Job-Readiness-Analysis/
 
 **Anuj Jagtap**
 
-📧 Email: your-email@example.com
+📧 Email: jagtapanuj3@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/anuj-jagtap2004/
 
